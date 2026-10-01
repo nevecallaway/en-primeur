@@ -31,4 +31,4 @@ __pycache__/
 .DS_Store
 
 #Claude worktrees
-.claude/worktrees/
+.claude/
